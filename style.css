@@ -1,0 +1,26 @@
+/*-- 
+Set body background color to gradient (top to bottom) light yellow and yellow.
+Set margin to zero.
+--*/
+
+body{
+     margin: 0;
+     background: linear-gradient(lightyellow, yellow);
+}
+
+/*--
+Set Header dimension to 140 X 70px
+Set border to 1px.
+Set text color to white.
+Set internal space to 20px
+ --*/
+
+header{
+      border-radius: 50%;
+      background-color: blue;
+      width: 140px;
+      height: 70px;
+      padding: 20px;
+      color: white;
+      text-align: center;
+}
